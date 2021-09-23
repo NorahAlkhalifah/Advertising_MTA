@@ -1,6 +1,8 @@
 # Project proposal 
 ### This is a proposal for businesses to advertise using the MTA network.
 
+<br>
+
 ### **Question/need:**
 
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
