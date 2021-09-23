@@ -7,7 +7,7 @@
   - The purpose of this analysis is to advertise a client's event to potential customers in the MTA network, which has the most public transit subway stations of any system in the world.
   
 **Who benefits from exploring this question or building this model/system?**
-  - Local event organizers and their teams. This analysis gives a fresh outlook on what NYC has to offer.
+  - Local event organizers and their teams can benifit from support from either tourists or other fellow locals. This analysis helps in giving a fresh outlook on what NYC has to offer besides the usual, known place
 
 ### **Data Description:**
 
