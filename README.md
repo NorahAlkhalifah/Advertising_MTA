@@ -1,5 +1,5 @@
 # Project proposal 
-## This is a proposal for businesses to advertise using the MTA network.
+### This is a proposal for businesses to advertise using the MTA network.
 
 ### **Question/need:**
 
