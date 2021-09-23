@@ -1,7 +1,7 @@
 # Project proposal 
 ### This is a proposal for businesses to advertise using the MTA network.
 
-### **Question/need:**
+#### **Question/need:**
 
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
   - To advertise a client's event to potential customers in the MTA network, which has the most public transit subway stations of any system in the world.
