@@ -8,10 +8,7 @@
   
 **Who benefits from exploring this question or building this model/system?**
   - Local entrepreneurs, event organizers, and their teams can benifit from the support expected from the analysis.
-
-
-
-
+-
 ### **Data Description:**
 
 **What dataset(s) do you plan to use, and how will you obtain the data?**
